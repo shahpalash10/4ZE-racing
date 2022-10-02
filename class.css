@@ -1,0 +1,65 @@
+
+.html {
+  background-color: #00539f;
+}
+.main {
+    color: whitesmoke;
+    text-align: center;
+    border: 5px solid black;
+    background-color: black;
+}
+.mainHeader {
+    color:#ffffff
+    text-align: center;
+    border: 2px solid white;
+    background-image: url("header.jpg");
+}
+
+.body {
+    width: 600px;
+    margin: 56 auto;
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+  }
+  .beginEventually, what is learned from web browser development can be used by front-end developers to craft code for environments that are not fueled by a browser engine. As of late, development environments are being dreamed up that use web technologies (e.g., CSS and JavaScript), without web engines, to create native applications.
+
+  Some examples of these environments are:
+  
+  Flutter
+  React Native{
+    margin: 16;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 3px 3px 1px black;
+  }
+  .move {
+    color: red;
+    width: 500px;
+    border: 1px solid black;
+  }
+  ul{
+    background-color: #ff9500;
+    padding: 0 20px 20px 20px;
+    display:inline-flexbox
+  }
+  ol{
+    border-radius: 12ex;
+    background-color: antiquewhite;
+    width: fit-content;
+    border: #ffffff;
+    padding-left: 8ex;
+
+  }
+  li:hover
+  {
+    background-color: aquamarine;
+    color: thistle;
+  }
+  h1:hover
+  {
+background-color: turquoise;
+color: aliceblue;
+  }
+
+  
