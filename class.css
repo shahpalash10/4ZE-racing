@@ -37,6 +37,10 @@ div.relative {
   top: 0px;
   z-index: -1;
 }
+.form
+{
+  width:100%;
+}
 
 .body {
     width: 600px;
