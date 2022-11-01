@@ -9,13 +9,13 @@
     background-color: black !important;
 }
 .mainHeader {
-    color:#ffffff
+    color:#ffffff;
     text-align: center;
     border: 2px solid white;
     background-image: url("header.jpg");
 }
 .flex-container{
-  color:#ffffff
+  color:#ffffff;
     text-align: center;
     border: 2px solid white;
 }
